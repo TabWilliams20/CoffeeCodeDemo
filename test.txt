@@ -1,3 +1,7 @@
 This is a file in my repository that I can edit
 
 I have made more edits
+
+Whale information:
+* species
+* fin whale
