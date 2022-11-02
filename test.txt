@@ -2,7 +2,4 @@ This is a file in my repository that I can edit
 
 I have made more edits
 
-Cat information:
-  * long boi
-  * 13.5lbs
- 
+resolve dog issue
